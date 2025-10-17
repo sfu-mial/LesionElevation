@@ -1,4 +1,9 @@
-# Lesion Elevation Prediction from Skin Images Improves Diagnosis
+# Lesion Elevation Prediction from Skin Images Improves Diagnosis<!-- Ruff badge -->
+<!-- arXiv badge -->
+<!-- DOI badge -->
+<!-- Citation badge - commented out for now -->
+[![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff) [![arXiv](https://img.shields.io/badge/arXiv-2408.02792-b31b1b.svg)](https://arxiv.org/abs/2408.02792) [![DOI](https://zenodo.org/badge/DOI/10.1007/978-3-031-77610-6_5.svg)](https://doi.org/10.1007/978-3-031-77610-6_5) 
+<!-- [![Citation](https://api.juleskreuer.eu/citation-badge.php?doi=10.1007/978-3-031-77610-6_5)](https://scholar.google.com/citations?view_op=view_citation&hl=en&citation_for_view=HagMdKMAAAAJ:hMod-77fHWUC) -->
 
 This is the code repository for our paper published at [Medical Image Computing and Computer-Assisted Intervention (MICCAI)](https://conferences.miccai.org/2024/en/) [ISIC Skin Image Analysis Workshop (ISIC) 2024](https://workshop.isic-archive.com/2024/):
 
@@ -179,7 +184,7 @@ If you find our work useful, please cite our paper:
 
 Kumar Abhishek, Ghassan Hamarneh, "[Lesion Elevation Prediction from Skin Images Improves Diagnosis](http://www.cs.sfu.ca/~hamarneh/ecopy/miccai_isic2024b.pdf)", Medical Image Computing and Computer-Assisted Intervention (MICCAI) ISIC Skin Image Analysis Workshop (ISIC), pp. 45-55, 2024, DOI: [10.1007/978-3-031-77610-6_5](https://doi.org/10.1007/978-3-031-77610-6_5).
 
-The corresponding bibtex entry is:
+The corresponding BibTeX entry is:
 
 ```bibtex
 @InProceedings{abhishek2024lesion,
